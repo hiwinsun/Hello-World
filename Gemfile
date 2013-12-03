@@ -1,1 +1,1 @@
-gem file
+gem 'github-pages'
